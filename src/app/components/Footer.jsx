@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <footer className="py-8 flex flex-col items-center gap-4 text-gray-500">
+    <footer className="py-8 flex flex-col items-center gap-4 text-gray-400 bg-black/60 backdrop-blur w-full text-center">
         <div className="flex gap-6">
         <a href = "https://github.com/camilo0o" >
             <img src="/simple-icons--github.svg" alt="GitHub" className="h-6 w-6" />
